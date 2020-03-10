@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1061880267170",
+    "firebase_url": "https://safe-journey-8acdf.firebaseio.com",
+    "project_id": "safe-journey-8acdf",
+    "storage_bucket": "safe-journey-8acdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061880267170:android:63b42be02888424f",
+        "android_client_info": {
+          "package_name": "com.cyberspace.safejourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061880267170-0u50kp0d4t259ru4orcm3tvnf4bjiiks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyberspace.safejourney",
+            "certificate_hash": "2de0466c5f94fb169c13c26407c415ef5a4b4284"
+          }
+        },
+        {
+          "client_id": "1061880267170-7mfabi4g5hh9erdukmmf00mvkgkfl0mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r5Sp9sxU6HkM7Dq40uW0pEQSSM8Nam8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061880267170-7mfabi4g5hh9erdukmmf00mvkgkfl0mj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061880267170-che5gl018bsa885tmf06fd1is8gfroo8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cyberspace.safejourney"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

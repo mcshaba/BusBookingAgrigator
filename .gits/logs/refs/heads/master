@@ -1,0 +1,27 @@
+0000000000000000000000000000000000000000 63377a7a8e9a93a49738e5d2ee94017230487247 Shaba Okare Michael <shabaokare@gmail.com> 1566307510 +0100	clone: from https://cybsoft.visualstudio.com/Safe%20Journey%20Mobile/_git/mobile
+63377a7a8e9a93a49738e5d2ee94017230487247 f5ab2126c58f96abf608cf294113dfdb278caea7 Shaba Okare Michael <shabaokare@gmail.com> 1567512031 +0100	pull --progress --no-stat -v --progress origin master: Fast-forward
+f5ab2126c58f96abf608cf294113dfdb278caea7 e3ddfc1f33703dabf2c2b56962baf8359101d6dc Shaba Okare Michael <shabaokare@gmail.com> 1567785842 +0100	commit: Implement CyberPay
+e3ddfc1f33703dabf2c2b56962baf8359101d6dc 35d0db2c41522927abd9694c9362abf6593633b2 Shaba Okare Michael <shabaokare@gmail.com> 1567785920 +0100	commit: Implement CyberPay
+35d0db2c41522927abd9694c9362abf6593633b2 437104f6b6e90b60b535568419a1c88e45ae61d4 Shaba Okare Michael <shabaokare@gmail.com> 1568216177 +0100	commit: Implement CyberPay
+437104f6b6e90b60b535568419a1c88e45ae61d4 865b89df92df68822d9d23592213081d3c2d6fe8 Shaba Okare Michael <shabaokare@gmail.com> 1569234136 +0100	commit: Implement CyberPay
+865b89df92df68822d9d23592213081d3c2d6fe8 17fb3d5eeb8ff5ce60b53c1f3d91195e1015489a Shaba Okare Michael <shabaokare@gmail.com> 1569237576 +0100	commit: Implement CyberPay
+17fb3d5eeb8ff5ce60b53c1f3d91195e1015489a 19edb4751371ba85830d5237e4dfbd75f338a183 Shaba Okare Michael <shabaokare@gmail.com> 1569251821 +0100	commit: Booking Status Implemented
+19edb4751371ba85830d5237e4dfbd75f338a183 857bc2075a384765a6131265e57ab2507276a948 Shaba Okare Michael <shabaokare@gmail.com> 1569315329 +0100	commit: Booking Status Implemented
+857bc2075a384765a6131265e57ab2507276a948 d389e2192d7be795a7bac3a01c9e25d3d11a37bc Shaba Okare Michael <shabaokare@gmail.com> 1569316326 +0100	commit: Bug Fixes
+d389e2192d7be795a7bac3a01c9e25d3d11a37bc bb03b155290b02e71fe2869b8a4c9439a9fb49cd Shaba Okare Michael <shabaokare@gmail.com> 1569318362 +0100	commit: Bug Fixes
+bb03b155290b02e71fe2869b8a4c9439a9fb49cd 03029866ec7cf60bf014db6649f4ca5f7a5c48e1 Shaba Okare Michael <shabaokare@gmail.com> 1569322076 +0100	commit: Bug Fixes
+03029866ec7cf60bf014db6649f4ca5f7a5c48e1 50de9f00fb5eb8f2f5fc14edb5b9947a71d60ba8 Shaba Okare Michael <shabaokare@gmail.com> 1569400785 +0100	pull --progress --no-stat -v --progress origin master: Fast-forward
+50de9f00fb5eb8f2f5fc14edb5b9947a71d60ba8 66c54d89e0d2674f1fe0518a6f239cbe9928d42b Shaba Okare Michael <shabaokare@gmail.com> 1569487147 +0100	commit: Bug Fixes
+66c54d89e0d2674f1fe0518a6f239cbe9928d42b f5487eca4ff4f1812dee2b0e15fbc5fd09d229ec Shaba Okare Michael <shabaokare@gmail.com> 1569520435 +0100	commit: Bug Fixes
+f5487eca4ff4f1812dee2b0e15fbc5fd09d229ec 8aff08c3005e90b8f022c87740cb4feeaa96cf7d Shaba Okare Michael <shabaokare@gmail.com> 1569520572 +0100	commit: Remove Screen Grab Security
+8aff08c3005e90b8f022c87740cb4feeaa96cf7d 76812386d4dcca8b73ac661d3ba2c1ff443fbd5d Shaba Okare Michael <shabaokare@gmail.com> 1569591447 +0100	commit: Updated Seat Page
+76812386d4dcca8b73ac661d3ba2c1ff443fbd5d 49e833fa3e8add08a52199fa525f570edf403b64 Shaba Okare Michael <shabaokare@gmail.com> 1569594091 +0100	commit: Implement Date Update
+49e833fa3e8add08a52199fa525f570edf403b64 6f397d5535ece75dc2dde383627c7511e3cc9a1d Shaba Okare Michael <shabaokare@gmail.com> 1569595161 +0100	commit: Implement Date Update
+6f397d5535ece75dc2dde383627c7511e3cc9a1d 98309195fefcd7c1ebe7cfe1b2a49b0a12603d52 Shaba Okare Michael <shabaokare@gmail.com> 1569830684 +0100	commit: Bug Fixes
+98309195fefcd7c1ebe7cfe1b2a49b0a12603d52 fddce69e6ee35fcdd54bd60d6134206bbaa16d22 Shaba Okare Michael <shabaokare@gmail.com> 1569841696 +0100	commit: Bug Fixes
+fddce69e6ee35fcdd54bd60d6134206bbaa16d22 28b39d25ece53436fa77f5c07a0945b2370ca395 Shaba Okare Michael <shabaokare@gmail.com> 1570092281 +0100	commit: Bug Fixes
+28b39d25ece53436fa77f5c07a0945b2370ca395 98c91e48290820cc5ce510f02accda8a7cdcaed1 Shaba Okare Michael <shabaokare@gmail.com> 1572001077 +0100	commit: Live Parameters
+98c91e48290820cc5ce510f02accda8a7cdcaed1 4b49d7638af3fa1a8e2e79185af4ae5f32dfd249 Shaba Okare Michael <shabaokare@gmail.com> 1572001100 +0100	merge origin/master: Merge made by the 'recursive' strategy.
+4b49d7638af3fa1a8e2e79185af4ae5f32dfd249 f9d36d0ea4800d71b4a9bbafb66a454e74d8455f Shaba Okare <shabaokare@gmail.com> 1580475818 +0100	commit: Fixed Bugs and connected the top destination to live data from API
+f9d36d0ea4800d71b4a9bbafb66a454e74d8455f be8ed5aa21d4488df712d9673c43cce9e74aafa2 Shaba Okare <shabaokare@gmail.com> 1580477319 +0100	commit (merge): Fixed merge conflict
+be8ed5aa21d4488df712d9673c43cce9e74aafa2 a890cf021fb8712c9a2ad01b6ed58ec73f787b73 Shaba Okare <shabaokare@gmail.com> 1581693405 +0100	merge testCyberPay: Fast-forward

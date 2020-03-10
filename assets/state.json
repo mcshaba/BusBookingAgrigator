@@ -1,0 +1,192 @@
+{
+  "Status": 1,
+  "RecordsFound": 1,
+  "Success": true,
+  "data": [
+    {
+      "name": "ABIA",
+      "code": "AB",
+      "capital": "Umuahia"
+    },
+    {
+      "name": "ADAMAWA",
+      "code": "AD",
+      "capital": "Yola"
+    },
+    {
+      "name": "AKWA-IBOM",
+      "code": "AK",
+      "capital": "Uyo"
+    },
+    {
+      "name": "ANAMBRA",
+      "code": "AN",
+      "capital": "Awka"
+    },
+    {
+      "name": "BAUCHI",
+      "code": "BA",
+      "capital": "Bauchi"
+    },
+    {
+      "name": "BENUE",
+      "code": "BE",
+      "capital": "Makurdi"
+    },
+    {
+      "name": "BORNO",
+      "code": "BO",
+      "capital": "Maiduguri"
+    },
+    {
+      "name": "BAYELSA",
+      "code": "BY",
+      "capital": "Yenagoa"
+    },
+    {
+      "name": "CROSS-RIVER",
+      "code": "CR",
+      "capital": "Calabar"
+    },
+    {
+      "name": "DELTA",
+      "code": "DE",
+      "capital": "Asaba"
+    },
+    {
+      "name": "EBONYI",
+      "code": "EB",
+      "capital": "Abakaliki"
+    },
+    {
+      "name": "EDO",
+      "code": "ED",
+      "capital": "Benin City"
+    },
+    {
+      "name": "EKITI",
+      "code": "EK",
+      "capital": "Ado-Ekiti"
+    },
+    {
+      "name": "ENUGU",
+      "code": "EN",
+      "capital": "Enugu"
+    },
+    {
+      "name": "FCT",
+      "code": "FC",
+      "capital": "Abuja"
+    },
+    {
+      "name": "GOMBE",
+      "code": "GO",
+      "capital": "Gombe"
+    },
+    {
+      "name": "IMO",
+      "code": "IM",
+      "capital": "Owerri"
+    },
+    {
+      "name": "JIGAWA",
+      "code": "JI",
+      "capital": "Dutse"
+    },
+    {
+      "name": "KEBBI",
+      "code": "KE",
+      "capital": "Birnin Kebbi"
+    },
+    {
+      "name": "KADUNA",
+      "code": "KD",
+      "capital": "Kaduna"
+    },
+    {
+      "name": "KOGI",
+      "code": "KO",
+      "capital": "Lokoja"
+    },
+    {
+      "name": "KANO",
+      "code": "KN",
+      "capital": "Kano"
+    },
+    {
+      "name": "KATSINA",
+      "code": "KT",
+      "capital": "Katsina"
+    },
+    {
+      "name": "KWARA",
+      "code": "KW",
+      "capital": "Ilorin"
+    },
+    {
+      "name": "LAGOS",
+      "code": "LA",
+      "capital": "Ikeja"
+    },
+    {
+      "name": "NIGER",
+      "code": "NI",
+      "capital": "Minna"
+    },
+    {
+      "name": "NASSARAWA",
+      "code": "NA",
+      "capital": "Lafia"
+    },
+    {
+      "name": "OGUN",
+      "code": "OG",
+      "capital": "Abeokuta"
+    },
+    {
+      "name": "ONDO",
+      "code": "ON",
+      "capital": "Akure"
+    },
+    {
+      "name": "OSUN",
+      "code": "OS",
+      "capital": "Oshogbo"
+    },
+    {
+      "name": "OYO",
+      "code": "OY",
+      "capital": "Ibadan"
+    },
+    {
+      "name": "PLATEAU",
+      "code": "PL",
+      "capital": "Jos"
+    },
+    {
+      "name": "RIVERS",
+      "code": "RI",
+      "capital": "Port Harcourt"
+    },
+    {
+      "name": "SOKOTO",
+      "code": "SO",
+      "capital": "Sokoto"
+    },
+    {
+      "name": "TARABA",
+      "code": "TA",
+      "capital": "Jalingo"
+    },
+    {
+      "name": "YOBE",
+      "code": "YO",
+      "capital": "Damaturu"
+    },
+    {
+      "name": "ZAMFARA",
+      "code": "ZA",
+      "capital": "Gusau"
+    }
+  ]
+}
